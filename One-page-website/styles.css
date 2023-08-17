@@ -1,0 +1,33 @@
+.menu-item{
+    display: inline-block;
+    background-color: gray;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 20px;
+}
+nav{
+    background-color: lightgray;
+    height: 50px;
+}
+.sidebar{
+    height: 900px;
+    width:29%;
+    float: left;
+    border-style: solid;
+    
+}
+.right{
+    height: 1000px;
+    width:70%;
+    float: left;
+    background-color: blue;
+}
+
+.kuro{
+    border-radius: 8px;
+    height: 300px;
+    width: 300px;
+    padding: 5%;
+}
